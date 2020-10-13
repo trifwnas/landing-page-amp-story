@@ -1,0 +1,19 @@
+{
+  "bookendVersion": "v1.0",
+  "shareProviders": ["facebook", "twitter", "email"],
+  "components": [
+    {
+      "type": "heading",
+      "text": "Contact Us"
+    },
+    {
+      "type": "cta-link",
+      "links": [
+        {
+          "text": "Email",
+          "url": "mailto:trif.tz@gmail.com?cc=getanepafo@gmail.com&amp;bcc=getanepafo@gmail.com&amp;subject=Anepafo%20Contact&amp;body=I want a contactless menu."
+        }
+      ]
+    }
+  ]
+}
